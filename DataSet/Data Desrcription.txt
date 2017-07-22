@@ -1,0 +1,30 @@
+Metadata of the tweets are as follows:
+
+id
+Text (Tweets)
+
+favorited
+
+favoriteCount
+
+replyToSN
+
+created
+
+truncated
+
+replyToSID
+
+id
+
+replyToUID
+
+statusSource
+
+screenName
+
+retweetCount
+
+isRetweet
+
+retweeted
